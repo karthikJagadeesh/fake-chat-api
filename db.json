@@ -1,0 +1,94 @@
+{
+  "profile": {
+    "id": 1,
+    "name": "Karthik",
+    "picture": "./assets/profile_pic.png",
+    "status": "available",
+    "friends": [
+      {
+        "id": 1,
+        "name": "Alex",
+        "picture": "",
+        "latest_timestamp": "10:00"
+      },
+      {
+        "id": 2,
+        "name": "Bob",
+        "picture": "",
+        "latest_timestamp": "10:00"
+      },
+      {
+        "id": 3,
+        "name": "Luke",
+        "picture": "",
+        "latest_timestamp": "10:00"
+      },
+      {
+        "id": 4,
+        "name": "Bane",
+        "picture": "",
+        "latest_timestamp": "10:00"
+      },
+      {
+        "id": 5,
+        "name": "Darth Vader",
+        "picture": "",
+        "latest_timestamp": "10:00"
+      },
+      {
+        "id": 6,
+        "name": "Zach",
+        "picture": "",
+        "latest_timestamp": "10:00"
+      },
+      {
+        "id": 7,
+        "name": "Katie",
+        "picture": "",
+        "latest_timestamp": "10:00"
+      },
+      {
+        "id": 8,
+        "name": "Chloe",
+        "picture": "",
+        "latest_timestamp": "10:00"
+      },
+      {
+        "id": 9,
+        "name": "Kennith",
+        "picture": "",
+        "latest_timestamp": "10:00"
+      },
+      {
+        "id": 10,
+        "name": "Tara",
+        "picture": "",
+        "latest_timestamp": "10:00"
+      },
+      {
+        "id": 11,
+        "name": "Gary",
+        "picture": "",
+        "latest_timestamp": "10:00"
+      },
+      {
+        "id": 12,
+        "name": "Zoey",
+        "picture": "",
+        "latest_timestamp": "10:00"
+      },
+      {
+        "id": 13,
+        "name": "Ash",
+        "picture": "",
+        "latest_timestamp": "10:00"
+      },
+      {
+        "id": 14,
+        "name": "Zen",
+        "picture": "",
+        "latest_timestamp": "10:00"
+      }
+    ]
+  }
+}
