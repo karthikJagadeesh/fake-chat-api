@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Karthik",
     "picture": "https://image.ibb.co/k0wVTm/profile_pic.jpg",
-    "status": "available",
+    "status": "Available",
     "friends": [
       {
         "id": 2,
